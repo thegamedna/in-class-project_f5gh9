@@ -1,5 +1,7 @@
 # MyTrip
 
+In-class project made as a part of Edureka Angular Developer bootcamp
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
 ## Development server
